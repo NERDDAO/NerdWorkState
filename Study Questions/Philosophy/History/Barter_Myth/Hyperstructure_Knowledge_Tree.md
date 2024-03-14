@@ -34,4 +34,4 @@
 ![[he Role of Hyperstructures in Catalyzing a Shift Towards Equitable Economic Structures]]
 ![[How Hyperstructures can transform society]]
 ![[Analysis]]
-![[Conclusion]]
+![[Study Questions/Philosophy/History/Barter_Myth/Conclusion]]
